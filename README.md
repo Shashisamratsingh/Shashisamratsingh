@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: **Drop an email at gagan31580@gmail.com or call/message at +91 6283362228.**
 
-- ⚡ Fun fact: **I automate everything using Bash and Terraform because manual work is not an option for me **
+- ⚡ Fun fact: **I automate everything using Bash and Terraform because manual work is not an option for me. **
 
 <br>
 
