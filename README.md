@@ -10,7 +10,7 @@
 
 - 🌱 I'm currently learning **advanced multi-cloud strategies across Microsoft Azure and AWS, and deeper DevSecOps integrations.**
 
-- 👯 I'm looking to collaborate on **Infrastructure as Code (IaC) automation using Terraform and cloud-native microservices architecture.**
+- 👯 I'm looking to collaborate on **Infrastructure as Code (IaC) automation using Terraform and cloud-native microservices architecture**
 
 - 🤝 I'm looking for help with **advanced Azure Kubernetes Service (AKS) scaling and Cloud Cost Optimization.**
 
